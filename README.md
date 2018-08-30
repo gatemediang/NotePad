@@ -9,5 +9,5 @@ cd NotePad
 npm install
 npm start
 ```
-**Find link on heroku [here NotePad] (https://glacial-dusk-46659.herokuapp.com/)**
+**Find link on heroku** [here NotePad] (https://glacial-dusk-46659.herokuapp.com/)
 
